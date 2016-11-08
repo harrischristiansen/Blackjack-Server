@@ -4,9 +4,9 @@
 
 A blackjack server written in Python.
 
-## Features
+## Features / Tasks
 
-- [ ] Incomplete
+- [ ] Implement Game Logic
 
 ## Contributors
 
